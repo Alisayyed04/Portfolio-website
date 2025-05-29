@@ -17,7 +17,7 @@ const projects = [
       "Developed a Portfolio website for my mother's salon so she can show her services and their prices with picture's ",
     image: "/projects/NewLounge_Pic.png",
     tags: ["React", "Tailwindcss"],
-    demoUrl: "new-lounge-358he9om5-alis-projects-0a806d28.vercel.app",
+    demoUrl: "https://new-lounge-358he9om5-alis-projects-0a806d28.vercel.app/",
     githubUrl: "#",
   },
   {
