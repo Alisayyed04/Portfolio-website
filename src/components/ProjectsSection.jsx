@@ -7,7 +7,7 @@ const projects = [
     description: "A Basic clone of Air BnB with core functionality",
     image: "/projects/airbnb_Pic.png",
     tags: ["MongoDB", "Express", "Nodejs"],
-    demoUrl: "#",
+    demoUrl: "https://airbnb-clone-1-a8hz.onrender.com",
     githubUrl: "#",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
       "Developed a Portfolio website for my mother's salon so she can show her services and their prices with picture's ",
     image: "/projects/NewLounge_Pic.png",
     tags: ["React", "Tailwindcss"],
-    demoUrl: "#",
+    demoUrl: "new-lounge-358he9om5-alis-projects-0a806d28.vercel.app",
     githubUrl: "#",
   },
   {
