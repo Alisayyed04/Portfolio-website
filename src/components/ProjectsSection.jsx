@@ -3,21 +3,21 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Air BnB clone",
-    description: "A Basic clone of Air BnB with core functionality",
-    image: "/projects/airbnb_Pic.png",
-    tags: ["MongoDB", "Express", "Nodejs"],
-    demoUrl: "https://airbnb-clone-1-a8hz.onrender.com",
+    title: "",
+    description: "",
+    image: "",
+    tags: [""],
+    demoUrl: "",
     githubUrl: "#",
   },
   {
     id: 2,
-    title: "Portfolio for a Salon",
+    title: "",
     description:
-      "Developed a Portfolio website for my mother's salon so she can show her services and their prices with picture's ",
-    image: "/projects/NewLounge_Pic.png",
-    tags: ["React", "Tailwindcss"],
-    demoUrl: "https://new-lounge-358he9om5-alis-projects-0a806d28.vercel.app/",
+      "",
+    image: "",
+    tags: [""],
+    demoUrl: "",
     githubUrl: "#",
   },
   {
