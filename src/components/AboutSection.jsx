@@ -1,5 +1,5 @@
 import { Briefcase, Code, User } from "lucide-react";
-import cv from "../assets/AliSayed_cv.pdf";
+import cv from "../assets/AliSayyed_cv.pdf";
 export const AboutSection = () => {
   return (
     <section id="about" className="py-24 px-4 relative">
