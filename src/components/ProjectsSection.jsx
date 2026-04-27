@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "",
-    description: "",
-    image: "",
-    tags: [""],
-    demoUrl: "",
-    githubUrl: "#",
+    title: "New Lounge Salon",
+    description: "Salon booking site ",
+    image: "New Lounge Salon.png",
+    tags: ["Node.js", "Tailwind CSS", "MongoDB", "React", "Express.js"],
+    demoUrl: "https://new-lounge-salon.vercel.app/",
+    githubUrl: "https://github.com/Alisayyed04/New-Lounge-Salon",
   },
   {
     id: 2,
